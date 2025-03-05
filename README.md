@@ -49,22 +49,27 @@ Ensure you have the following installed on your system:
 ## Usage
 
 1. **Define Work Shifts**: Enter shift names (e.g., "ER Nurse I", "Handyman II, Janitor") and specify the required number of workers. for this demo, we use D00n to D4 to represent day shifts and E1 to E3 for evening shifts
-   <img width="1436" alt="Screenshot 2025-03-05 at 1 16 21 PM" src="https://github.com/user-attachments/assets/b37206b1-8e48-4e86-bd06-b69f932039dd" />
+  <img width="1436" alt="Screenshot 2025-03-05 at 1 16 21 PM" src="https://github.com/user-attachments/assets/72411c39-b38b-4148-9a3c-96f19f6ed6d9" />
+
 
 2. **Add Employees** : Provide employee names, select their available working days, and assign their specializations. Some workers may have more than one specialization for example some staffs may work both day and evening shifts, a handyman may also do the gardner shift. So select shifts according to the order of preferrence as the app will take this into consideration when assigning shifts, for example, select day shifts first for users who prefer the day shift. Also select working days according to preference as some workers may prefer working on the weekends more than weekdays.
-   <img width="1415" alt="Screenshot 2025-03-05 at 1 18 27 PM" src="https://github.com/user-attachments/assets/24012251-0c7c-464b-97ff-650dcfbd512d" />
+ <img width="1415" alt="Screenshot 2025-03-05 at 1 18 27 PM" src="https://github.com/user-attachments/assets/53d4616d-ca5f-432b-8279-c350454f237e" />
+
 
 3. **View/Edit workers** edit workers details accordingly
-   <img width="1394" alt="Screenshot 2025-03-05 at 1 19 00 PM" src="https://github.com/user-attachments/assets/98c4ce4d-63b4-43f1-b5f6-121f357b401f" />
+   <img width="1394" alt="Screenshot 2025-03-05 at 1 19 00 PM" src="https://github.com/user-attachments/assets/a5c45953-2f44-48cb-bae2-7ada7ddeb757" />
+
 
 4. **Generate Schedule**: Select the start date of the schedule, number of days to schedule and the number of business days, this option is included because some business operate 7days a week while some just Monday to Friday. Click the "Generate Schedule" button to create a shift plan based on the input data.
-   <img width="1393" alt="Screenshot 2025-03-05 at 1 19 42 PM" src="https://github.com/user-attachments/assets/468a15cb-b6ca-4224-9e52-b7cac8d2ff0d" />
+ <img width="1393" alt="Screenshot 2025-03-05 at 1 19 42 PM" src="https://github.com/user-attachments/assets/5832614b-5ab8-4b34-94bc-0cbda498499e" />
+
 
 5. **View Generated Schedule**
-   <img width="1394" alt="Screenshot 2025-03-05 at 1 20 05 PM" src="https://github.com/user-attachments/assets/17f7a1e8-ce4b-49d8-9482-21ddbeb35cc8" />
+ <img width="1394" alt="Screenshot 2025-03-05 at 1 20 05 PM" src="https://github.com/user-attachments/assets/4242ffa5-c36a-4deb-a8a6-b56043cf3add" />
+
 
 6. **Export the Schedule**: Download the schedule in PDF or CSV format for sharing. A sample of the schedule in csv
-   <img width="1176" alt="Screenshot 2025-03-05 at 1 21 10 PM" src="https://github.com/user-attachments/assets/a4a349ac-300b-4ed4-8410-4c00f150ab5f" />
+  <img width="1176" alt="Screenshot 2025-03-05 at 1 21 10 PM" src="https://github.com/user-attachments/assets/f0692013-ce55-4190-85ee-c5dc627ba700" />
 
 ## File Structure
 
